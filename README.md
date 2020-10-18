@@ -14,11 +14,11 @@ Download, compile and execute msh.c
 ![image](https://user-images.githubusercontent.com/48780754/93019055-8a181d80-f60f-11ea-8f2f-e8cd94de91e3.png)
 
 
-## pros
+## Pros
 It helps you to understand how to implement Linux shell  
 
-## ... and cons
-The one thing written above is all. I hope you like this :)  
+## Cons
+The one thing written above is all. Well..., Sorry. :)  
 
 ## Known Problems
 - It does not load environment variables    
