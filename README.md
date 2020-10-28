@@ -23,5 +23,5 @@ The one thing written above is all. Well..., Sorry. :)
 ## Known Problems
 - It does not load environment variables    
 - It is not compatible with Bourne shells  
-- It do not support shell scripts  
+- It does not support shell scripts  
 - Do not use it as a default shell. It may give you a lot of errors, because of lacks of environment variables, compatibility Bourne shells and etc.
